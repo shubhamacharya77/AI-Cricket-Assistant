@@ -1,0 +1,5 @@
+dotenv
+huggingface_hub
+fastapi
+uvicorn
+requests
